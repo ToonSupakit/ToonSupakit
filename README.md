@@ -6,7 +6,7 @@ Developer
 
 web devlopment
 
-* 🌍  I'm based in Maefahlhung U.
+* 🌍  I'm based in maefahluang U.
 * ✉️  You can contact me at [toonmeraipao44@gmail.com](mailto:toonmeraipao44@gmail.com)
 * 🧠  I'm currently learning NextJS
 
