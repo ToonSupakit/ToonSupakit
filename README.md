@@ -31,7 +31,7 @@ Web Developer
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToonSupakit&show_icons=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToonSupakit&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -39,5 +39,5 @@ Web Developer
 ### 🧠 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToonSupakit&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&custom_title=Top%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToonSupakit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
