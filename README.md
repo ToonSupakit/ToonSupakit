@@ -4,11 +4,11 @@ Hi 👋 My name is ToonSupakit
 Developer
 ---------
 
-Web Developer
+Abount Me
 
-* 🌍  I'm based in Mae Fah Luang University
+* 🌍  I'm study in Mae Fah Luang University
 * ✉️  You can contact me at [toonmeraipao44@gmail.com](mailto:toonmeraipao44@gmail.com)
-* 🧠  I'm currently learning ReactJS & Next.js
+
 
 ---
 
@@ -28,16 +28,8 @@ Web Developer
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToonSupakit&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🧠 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToonSupakit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ToonSupakit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
