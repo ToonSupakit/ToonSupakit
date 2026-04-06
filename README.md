@@ -1,7 +1,6 @@
 Hi 👋 My name is ToonSupakit
 ================================================================
 
-Developer
 ---------
 
 Abount Me
