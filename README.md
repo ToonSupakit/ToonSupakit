@@ -2,12 +2,12 @@ Hi 👋 My name is Toon
 
 ---------
 
-### Abount Me
+### About Me
 
-* 🌍  I'm study in Mae Fah Luang University
+* 🌍  I'm studying Computer Engineering at Mae Fah Luang University
 * ✉️  You can contact me at [toonmeraipao44@gmail.com](mailto:toonmeraipao44@gmail.com)
 
-### 🛠 Skills
+### 🛠 Tech Stack
 
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
@@ -25,7 +25,15 @@ Hi 👋 My name is Toon
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
 </p>
 
+### 🌐 Networking, IoT & Security
 
+<p align="left">
+  <a href="https://www.cisco.com/"><img src="https://cdn.simpleicons.org/cisco/049fd9" width="36" title="Cisco (OSPF, VLAN, NAT, ACL)" /></a>
+  <a href="https://www.wireshark.org/"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="36" title="Network Monitoring (SNMP, Syslog, NetFlow)" /></a>
+  <a href="https://www.espressif.com/"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="36" title="IoT: ESP32 & ESP8266" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://cdn.simpleicons.org/arduino/00979D" width="36" title="IoT Development" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" title="Network Automation" /></a>
+</p>
 
 ### 🧠 Top Languages
 
